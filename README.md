@@ -7,7 +7,7 @@ The sum-product algorithm is a powerful technique used in probabilistic graphica
 In this project, we analyze the behavior of S&P 500 index over a period of time: Sept 30, 2013 to Sep 28, 2014. Specifically this MATLAB code:
 
 - Impements the Forward-backward Sum-product algorithm.
-- It uses the sp500.mat dataset.
+- It uses the [sp500.mat](sp500.mat) dataset.
 - It plots the probability that the economic state is 'good' given a set of observations.
 - It prints the probability that the economy is in a good state in week 52, i.e., the last week in the simulation.
 
