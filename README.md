@@ -15,7 +15,7 @@ In this project, we analyze the behavior of S&P 500 index over a period of time:
 
 The following software needs to be installed.
 
-- MATLAB
+- ```MATLAB```
 
 ## Authors
 
